@@ -1,1 +1,23 @@
+#daimond pattern
+#for i  in range(1,5+1):
+#    print(" " *(5-i)+ "*" *(2*i-1))
+#for i in range(5-1 ,0,-1):
+#    print(" " *(5-i)+ "*" * (2*i-1))
 
+#holo patterns
+#for i in range(1,5+1):
+#   if i==1 or i==5:
+#       print("*"*(i))
+#   else:
+#       print("*"+' '*(i-2)+"*")
+#holo dimond
+#for i in range(1,5+1):
+#    if i == 1 :
+#        print(" "*(5-i)+"*"*(2*i))
+#    else:
+#        print(" "*(5-i)+"* "+" "*(2*i-3)+"*")
+#for i in range(5-1,0,-1):
+#    if i == 1 or i==5:
+#        print(" "*(5-i)+"*"*(i+i))
+#    else:
+#        print(" "*(5-i)+"* "+" "*(2*i-3)+"*")
